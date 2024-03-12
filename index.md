@@ -7,6 +7,12 @@ title: Portfolio
 
 A passionate Full Stack Software Developer 🚀 with experience in Mobile and Web app development with languages and tools like JavaScript - Reactjs - Nodejs - React Native and some other cool libraries and frameworks.
 
+## What I Do
+
+- Develop highly interactive Front end / User Interfaces for your web and mobile applications
+- Progressive Web Applications ( PWA ) in normal and SPA Stacks
+- Integration of third party services such as Firebase/ AWS / Digital Ocean
+
 <!--
 [Link to another page](./another-page.html).
 
