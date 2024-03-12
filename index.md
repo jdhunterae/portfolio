@@ -1,10 +1,13 @@
 ---
 layout: default
-title: Data Scientist
+title: Portfolio
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hey there! I'm Andrew.
 
+A passionate Full Stack Software Developer 🚀 with experience in Mobile and Web app development with languages and tools like JavaScript - Reactjs - Nodejs - React Native and some other cool libraries and frameworks.
+
+<!--
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
@@ -122,3 +125,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
